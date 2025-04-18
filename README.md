@@ -25,4 +25,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
