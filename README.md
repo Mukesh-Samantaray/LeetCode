@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/0001-two-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/0001-two-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mukesh-Samantaray/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
